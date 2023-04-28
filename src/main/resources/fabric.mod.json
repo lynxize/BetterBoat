@@ -12,12 +12,10 @@
     "sources": "https://github.com/SnowdriftDev/BetterBoat"
   },
   "license": "MIT",
-
   "environment": "*",
   "mixins": [
     "betterboat.mixins.json"
   ],
-
   "depends": {
     "fabricloader": ">=0.14.12",
     "minecraft": ">=1.19.4",

@@ -12,6 +12,7 @@ public abstract class EntityMixin {
 	private float maxUpStep;
 
 	// stupid mandated doc
+
 	/**
 	 * @author Snowdrift_
 	 * @reason Easiest way to accomplish this,
@@ -24,11 +25,3 @@ public abstract class EntityMixin {
 		else return maxUpStep;
 	}
 }
-
-
-
-
-
-
-
-
