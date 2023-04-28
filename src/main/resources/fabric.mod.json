@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "betterboat",
+  "version": "${version}",
+  "name": "Better Boat",
+  "description": "A simple 1 mixin mod that un-fixes a boat bug, bringing back 1.19.4 Pre-Release 1 boat behavior",
+  "authors": [
+    "Snowdrift_"
+  ],
+  "contact": {
+    "homepage": "https://github.com/SnowdriftDev/BetterBoat",
+    "sources": "https://github.com/SnowdriftDev/BetterBoat"
+  },
+  "license": "MIT",
+
+  "environment": "*",
+  "mixins": [
+    "betterboat.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.12",
+    "minecraft": ">=1.19.4",
+    "java": ">=17"
+  }
+}
