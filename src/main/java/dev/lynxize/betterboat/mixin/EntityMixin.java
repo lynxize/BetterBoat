@@ -1,4 +1,4 @@
-package io.github.snowdriftdev.betterboat.mixin;
+package dev.lynxize.betterboat.mixin;
 
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.vehicle.Boat;

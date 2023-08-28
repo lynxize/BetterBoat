@@ -5,11 +5,11 @@
   "name": "Better Boat",
   "description": "A simple 1 mixin mod that un-fixes a boat bug, bringing back 1.19.4 Pre-Release 1 boat behavior",
   "authors": [
-    "Snowdrift_"
+    "lynxize"
   ],
   "contact": {
-    "homepage": "https://github.com/SnowdriftDev/BetterBoat",
-    "sources": "https://github.com/SnowdriftDev/BetterBoat"
+    "homepage": "https://github.com/lynxize/BetterBoat",
+    "sources": "https://github.com/lynxize/BetterBoat"
   },
   "license": "MIT",
   "environment": "*",
