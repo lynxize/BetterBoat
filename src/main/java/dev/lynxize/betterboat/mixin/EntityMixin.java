@@ -20,6 +20,7 @@ public abstract class EntityMixin {
 	 */
 	@Overwrite
 	public float maxUpStep() {
+		//noinspection ConstantValue
 		if (((Object) this) instanceof Boat)
 			return 1.0F;
 		else return maxUpStep;
